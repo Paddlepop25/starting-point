@@ -1,5 +1,5 @@
-# **Programming / Web Development Resources**
-![Programming / Web Development Resources](https://www.robotlab.com/hs-fs/hubfs/coding.jpg?width=640&name=coding.jpg)
+# **Programming / Web Development Resources for Begineers**
+![Programming / Web Development Resources](https://www.robotlab.com/hs-fs/hubfs/coding.jpg?width=640&name=coding.jpg) <br />
 This is a curated list of some resources of different topics that have helped in my learning to code journey. 
 
 Starting this out as a simple ```README.md``` but I’d like to make it more interactive in the future.
