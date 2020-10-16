@@ -61,5 +61,7 @@ Just discovered this recently while doing some Node exercises from FreeCodeCamp.
 
 - Please feel free to add to the list and leave a short description of why they’re your favourites
 
+- Don't forget to add your name, country and Github link in the [```contributors.md```](https://github.com/Paddlepop25/starting-point/blob/master/contributors.md)! 
+
 <br />
 <br />
